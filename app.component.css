@@ -1,0 +1,23 @@
+.tble
+{
+ 
+    text-align-last:  right;
+
+}
+
+.clr
+{
+    color : #074ab7;
+    font-size: 1.5em;
+}
+.iconclr
+{ font-size: 1.5em;
+    color : #f9616e;
+}
+.fa.disabled {
+  opacity: 0.6;
+  cursor: no-drop;
+}
+.fa {
+  cursor: pointer;
+}
